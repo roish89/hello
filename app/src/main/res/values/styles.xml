@@ -1,0 +1,84 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="MtTextViewStyle" parent="@android:style/TextAppearance.Large">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#006633</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:background">#f0f0f0</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="MtTextViewStyle.BoldRed">
+        <item name="android:textColor">#FF0000</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="MtTextViewStyle.BoldRed.Big">
+    <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="MyTheme" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorBackground">@android:color/background_light</item>
+    </style>
+
+    <style name="MyButton" parent="android:Widget.Button">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+
+
+    <style name="MyButton.Plus">
+        <item name="android:text">@string/plus</item>
+        <item name="android:background">@drawable/green_button_selector</item>
+    </style>
+
+    <style name="MyButton.Minus">
+        <item name="android:text">@string/minus</item>
+        <item name="android:background">@drawable/orange_button_selector</item>
+    </style>
+
+    <style name="MyButton.Multiplication">
+        <item name="android:text">@string/multiplication</item>
+        <item name="android:background">@drawable/ic_yellow_button</item>
+    </style>
+
+    <style name="MyButton.Division">
+        <item name="android:text">@string/division</item>
+        <item name="android:background">@drawable/ic_yellow_button</item>
+    </style>
+
+    <style name="MyButton.Beginner">
+        <item name="android:text">@string/beginner</item>
+        <item name="android:background">@drawable/ic_purple_button</item>
+    </style>
+
+    <style name="MyButton.Advanced">
+        <item name="android:text">@string/advanced</item>
+        <item name="android:background">@drawable/ic_green_button</item>
+    </style>
+
+    <style name="MyButton.Professional">
+        <item name="android:text">@string/professional</item>
+        <item name="android:background">@drawable/ic_yellow_button</item>
+    </style>
+    <style name="MyButton.DeleteBtn">
+        <item name="android:text"></item>
+        <item name="android:background">@drawable/delete_btn</item>
+
+    </style>
+
+
+
+
+</resources>

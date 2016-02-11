@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TrainBrain</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="plus">Plus</string>
+    <string name="minus">Minus</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+    <string name="title_activity_plus">PlusActivity</string>
+    <string name="title_activity_main2">TYBrain</string>
+    <string name="professional">Professional</string>
+    <string name="advanced">Advanced</string>
+    <string name="beginner">Beginner</string>
+
+
+</resources>
