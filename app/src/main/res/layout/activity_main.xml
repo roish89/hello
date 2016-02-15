@@ -14,7 +14,7 @@
         android:layout_marginTop="150dp"
         style="@style/MyButton.Beginner"
         android:onClick="clickBeginner"
-        android:layout_above="xzc"/>
+        />
 
 
     <Button

@@ -40,7 +40,7 @@
 
     <style name="MyButton.Plus">
         <item name="android:text">@string/plus</item>
-        <item name="android:background">@drawable/gray_button_selector</item>
+        <item name="android:background">@drawable/green_button_selector</item>
     </style>
 
     <style name="MyButton.Minus">
@@ -50,17 +50,17 @@
 
     <style name="MyButton.Multiplication">
         <item name="android:text">@string/multiplication</item>
-        <item name="android:background">@drawable/purple_button_selector</item>
+        <item name="android:background">@drawable/green_button_selector</item>
     </style>
 
     <style name="MyButton.Division">
         <item name="android:text">@string/division</item>
-        <item name="android:background">@drawable/orange_button_selector</item>
+        <item name="android:background">@drawable/green_button_selector</item>
     </style>
 
     <style name="MyButton.Beginner">
         <item name="android:text">@string/beginner</item>
-        <item name="android:background">@drawable/gray_button_selector</item>
+        <item name="android:background">@drawable/green_button_selector</item>
     </style>
 
     <style name="MyButton.Advanced">
@@ -70,7 +70,7 @@
 
     <style name="MyButton.Professional">
         <item name="android:text">@string/professional</item>
-        <item name="android:background">@drawable/orange_button_selector</item>
+        <item name="android:background">@drawable/green_button_selector</item>
     </style>
     <style name="MyButton.DeleteBtn">
         <item name="android:text"></item>

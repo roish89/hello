@@ -185,7 +185,7 @@
             android:layout_weight="1"
             android:onClick="delete_btn"
             android:textSize="25sp"
-            android:text="<<"
+            android:text="delete"
             />
     </LinearLayout>
 
