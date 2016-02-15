@@ -21,16 +21,16 @@
         android:id="@+id/button2"
         android:layout_below="@id/button"
         style="@style/MyButton.Minus"
-        android:onClick="clickMinus" />
+        android:onClick="clickMinus"
+        />
 
     <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:text="multiplication"
         android:id="@+id/button3"
         android:layout_below="@id/button2"
         style="@style/MyButton.Multiplication"
-        android:onClick="clickMulti" />
+        android:onClick="clickMulti"
+        />
 
     <Button
         android:layout_width="match_parent"

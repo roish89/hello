@@ -185,7 +185,8 @@
             android:layout_weight="1"
             android:onClick="delete_btn"
             android:textSize="25sp"
-            style="@style/MyButton.DeleteBtn"/>
+            android:text="<<"
+            />
     </LinearLayout>
 
     <TextView
